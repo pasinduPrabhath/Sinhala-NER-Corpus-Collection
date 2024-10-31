@@ -57,7 +57,7 @@
         "entities": [
           [0, 11, "EVENT/POLITICALEVENT"],  
           [12, 16, "DATE"],                
-          [23, 34, "ORGANIZATION"]          
+          [35, 42, "PERSON"]          
         ]
       }
     ],
