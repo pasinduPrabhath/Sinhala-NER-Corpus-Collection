@@ -29,10 +29,3 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Project Maintainer
 - [Pasindu Prabhath](https://github.com/pasinduPrabhath)
 
-
-## Contributors
-Thanks goes to these wonderful people ✨
-
-<a href="https://github.com/pasinduPrabhath/Sinhala-NER-Dataset/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pasinduPrabhath/sinhala-ner-dataset" />
-</a>
